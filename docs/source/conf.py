@@ -33,6 +33,11 @@ source_suffix = {
 
 # html_theme = 'alabaster'
 html_static_path = ['_static']
+html_logo = "_static/KADaP_Only.png"
+html_theme_options = {
+    "logo_only": True,
+    "display_version": False,
+}
 
 import os
 import sys
