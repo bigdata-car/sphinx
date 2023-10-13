@@ -3,10 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to bigdata-car's documentation!
-
-`Visit KADaP web site! <https://bigdata-car.kr/door/index.html>`_
-==================================================================
+`Welcome to bigdata-car's documentation! \nVisit KADaP web site! <https://bigdata-car.kr/door/index.html>`_
+============================================================================================================
 
 .. toctree::
    :maxdepth: 2
