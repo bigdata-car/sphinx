@@ -6,15 +6,14 @@
 Welcome to bigdata-car's documentation!
 =======================================
 
+`Visit KADaP web site! <https://bigdata-car.kr/door/index.html>`_
+------------------------------------------------------------------
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    modules
-
-
-`Visit KADaP web site! <https://bigdata-car.kr/door/index.html>`_
-==================================================================
 
 Indices and tables
 ==================
