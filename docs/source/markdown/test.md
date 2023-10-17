@@ -2,7 +2,6 @@
 
 ## Headers
 
-# This is a Heading h1
 ## This is a Heading h2
 
 ## Emphasis
