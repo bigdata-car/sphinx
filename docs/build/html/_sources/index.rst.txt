@@ -14,6 +14,7 @@ Welcome to bigdata-car's documentation!
    :caption: Contents:
 
    modules
+   markdown/test.md
 
 Indices and tables
 ==================
